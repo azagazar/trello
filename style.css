@@ -1,0 +1,41 @@
+body
+{
+	font-family: 'Lato', sans-serif;
+}
+.board
+{
+	min-width: 50vw;
+	background-color: #ECEFF1;
+}
+
+button
+{
+	width: 150px;
+	height: 30px;
+	border-radius: 10px;
+	background-color: #4DB6AC;
+	border-color: #4DB6AC;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
+
+.column
+{
+	min-width: 500px;
+}
+
+.btn-delete
+{
+	width: 30px;
+	background-color: #F44336;
+	border-color: #F44336;
+	text-align: center;
+	margin: 0 30px;
+	font-size: 15px;
+	font-weight: 900;
+}
+
+ul
+{
+	list-style-type: none;
+}
